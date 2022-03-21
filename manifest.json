@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Vite Vue Chrome Extension",
+  "version": "1.0.0",
+  "content_scripts": [{
+    "js": ["src/main.js"],
+    "matches": ["https://www.google.com/*"]
+  }]
+}
