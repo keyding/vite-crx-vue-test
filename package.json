@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.0",
-    "rollup-plugin-chrome-extension": "4.0.1-16",
+    "rollup-plugin-chrome-extension": "^4.0.1-18",
     "vite": "^2.8.0"
   }
 }

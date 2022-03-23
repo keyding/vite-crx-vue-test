@@ -10,6 +10,6 @@ const imgSrc = chrome.runtime.getURL(logo)
 
 <template>
   <img alt="Vue logo" :src="imgSrc" />
-  <HelloWorld msg="Hello Vue 3 + Vite" />
+  <HelloWorld msg="Hello Vue 3 + Vite + RPCE" />
 </template>
 
